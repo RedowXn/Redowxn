@@ -1,4 +1,4 @@
-[![MasterHead](coverimg.png)](https://redowanahmed.com)
+[![MasterHead](https://raw.githubusercontent.com/R2345678/RedowXn/refs/heads/main/coverimg.png)](https://redowanahmed.com)
 
 <p align="center">
 Building scalable systems, clean UI, and AI powered applications. Skilled across the entire tech stack from low level programming to cloud infrastructure solving real world problems through code and design.
